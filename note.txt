@@ -1,0 +1,2 @@
+Install 'styled-components' and 'react-router-dom' via npm:
+  `npm i styled-components react-router-dom`
